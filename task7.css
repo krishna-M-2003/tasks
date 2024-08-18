@@ -1,0 +1,49 @@
+.c-2{
+    text-align: center;
+    background-color: rgb(179, 190, 190);
+    padding: 30px 0px 30px 0px;
+}
+
+.c-3{
+    padding: 20px 0px 20px 0px;
+    text-align: end;
+}
+
+.mb-3{
+    display: flex;
+}
+
+.col-form-label{
+    margin-right: 30px;
+}
+
+.gender{
+    display: flex;
+    margin-bottom: 17px;
+    
+}
+
+.spanC{
+    margin-right: 52px;
+    margin-top: 5px;
+}
+
+.form-label{
+    margin-right: 45px;
+}
+
+.bd-lab{
+    margin-right: 39px;
+}
+
+.bd-input{
+    width: 364px;
+    border: solid;
+    border-radius: 6px;
+    border-width: 1px;
+    border-color: #dee2e6;
+}
+
+.fstInput{
+    margin-right: 87px;
+}
